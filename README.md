@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/readme-banner.svg" alt="movie project banner" width="100%" />
+</p>
+
 # Movie Project
 
 This repository is currently an empty project scaffold. No movie catalog, media files, or application code is present yet.
